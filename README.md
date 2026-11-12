@@ -1,2 +1,2 @@
-# FCS-kit
+# FCS-git
 fcsgit
